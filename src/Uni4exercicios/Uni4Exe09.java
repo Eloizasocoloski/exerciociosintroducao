@@ -1,3 +1,4 @@
+package Uni4exercicios;
 import java.util.Scanner;
 
 public class Uni4Exe09 {

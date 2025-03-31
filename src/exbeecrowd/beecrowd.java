@@ -1,4 +1,4 @@
-package Uni4exercicios;
+package exbeecrowd;
 
 import java.util.Scanner;
 
